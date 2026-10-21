@@ -1,0 +1,11 @@
+{
+  "detection_sft_data": {
+    "file_name": "detection_sft_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images",
+      "system": "system"
+    }
+  }
+}

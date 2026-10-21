@@ -1,0 +1,8 @@
+__pycache__/
+*.egg-info/
+wandb/
+xet/
+saves/
+checkpoints/
+train/sft/LLaMA-Factory/datasets/
+train/rl/verl/datasets/
