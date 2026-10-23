@@ -1,4 +1,4 @@
-# WebAgentGuard
+# WebAgentGuard: A Multimodal Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents
 
 Official implementation of the paper **"WebAgentGuard: A Multimodal Reasoning-Driven Guard
 Model for Detecting Prompt Injection Attacks in Web Agents"**, accepted at **WACV 2027**.
